@@ -27,7 +27,7 @@ $(function () {
       //if else statments
       // if my time is less than my current time it's in past if equal pres, if greater it's CSSFontFeatureValuesRule
       // based on that add the class you want to see to add the VideoColorSpace
-      // add class/remove class
+      // add class/remove class 
       if (currentTime > time) {
       $( this ).addClass("past");
       $( this ).removeClass("future", "present");
