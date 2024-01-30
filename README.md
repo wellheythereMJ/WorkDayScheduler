@@ -6,4 +6,4 @@ It uses HTML, Javascript, jQuery
 
 [Link to deployed application](https://wellheytheremj.github.io/WorkDayScheduler/)
 
-![screenshot of password generator]()
+![screenshot of password generator](./Assets/Work%20Day%20Scheduler.png)
